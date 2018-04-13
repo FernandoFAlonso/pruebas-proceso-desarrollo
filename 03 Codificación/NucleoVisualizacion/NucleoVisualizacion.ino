@@ -1,7 +1,7 @@
 // LIBRERÍAS
 #include <EEPROM.h>
 
-// Control del numero de datos guardados
+// Control del numero de datos guardados (Variable en la próxima versión)
 #define NUM_MAX_MEDIDAS 13
 
 //Posiciones de lectura
